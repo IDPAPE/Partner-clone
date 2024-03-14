@@ -5,3 +5,20 @@
 .offWhite-bg-color {
     background-color: whitesmoke;
 }
+
+.headerlinks>a {
+    text-decoration: none;
+    color: none;
+    color: white;
+}
+
+.contanining-block {
+    position: relative;
+    min-height: 5vh;
+    padding: 0;
+}
+
+.floating-box {
+    position: absolute;
+    bottom: 40vh;
+}
